@@ -1,0 +1,8 @@
+﻿  lab_1_alg.cpp
+C:\Users\vitrl\source\repos\lab_1_alg\lab_1_alg\lab_1_alg.cpp(9,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vitrl\source\repos\lab_1_alg\lab_1_alg\lab_1_alg.cpp(23,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vitrl\source\repos\lab_1_alg\lab_1_alg\lab_1_alg.cpp(41,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vitrl\source\repos\lab_1_alg\lab_1_alg\lab_1_alg.cpp(69,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_1_alg.vcxproj -> C:\Users\vitrl\source\repos\lab_1_alg\x64\Debug\lab_1_alg.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
