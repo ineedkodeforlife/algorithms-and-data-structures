@@ -1,0 +1,8 @@
+﻿  lab_3_alg.cpp
+C:\Users\vitrl\source\repos\lab_3_alg\lab_3_alg.cpp(59,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vitrl\source\repos\lab_3_alg\lab_3_alg.cpp(62,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vitrl\source\repos\lab_3_alg\lab_3_alg.cpp(65,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vitrl\source\repos\lab_3_alg\lab_3_alg.cpp(68,32): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_3_alg.vcxproj -> C:\Users\vitrl\source\repos\lab_3_alg\x64\Debug\lab_3_alg.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
