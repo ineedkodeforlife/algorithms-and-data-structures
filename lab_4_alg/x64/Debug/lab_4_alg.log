@@ -1,0 +1,44 @@
+﻿  lab_4_alg.cpp
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(76,20): warning C4244: -=: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(95,20): warning C4244: -=: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(192,14): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(219,15): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(251,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(256,6): warning C4101: r: неиспользованная локальная переменная
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\numeric(34,26): warning C4244: =: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\numeric(43,17): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,
+              _Fn=std::plus<void>
+          ]
+C:\Users\vitrl\source\repos\lab_4_alg\lab_4_alg.cpp(178,11): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int>(const _InIt,const _InIt,_Ty)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>
+          ]
+  lab_4_alg.vcxproj -> C:\Users\vitrl\source\repos\lab_4_alg\x64\Debug\lab_4_alg.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
